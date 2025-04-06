@@ -1,2 +1,2 @@
-# demo-repo
-Demo for github repository
+# My first repository
+This is my first github repository, I am learning psa
